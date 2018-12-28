@@ -5,6 +5,7 @@ require 'c_ray/version'
 Gem::Specification.new do |spec|
   spec.name          = 'c_ray'
   spec.version       = CRay::VERSION
+  spec.licenses      = ['MIT']
   spec.authors       = ['Eduard Thamm']
   spec.email         = ['eduard.thamm@thammit.at']
 
