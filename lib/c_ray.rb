@@ -2,6 +2,7 @@
 
 require 'c_ray/version'
 
+# :no-doc:
 module CRay
   # Your code goes here...
 end

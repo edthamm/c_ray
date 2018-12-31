@@ -11,9 +11,14 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Eduard Thamm']
   spec.email         = ['eduard.thamm@thammit.at']
 
-  spec.summary       = 'Bridging the gap between cucumber and XRay'
-  spec.description   = 'This gem helps practioners of BDD to manage their Scenarios in XRay. This comes at the cost of file structure but enables more businessy user to interact with scenarios in ticket style.'
   spec.homepage      = 'https://github.com/edthamm/c_ray'
+  spec.summary       = 'Bridging the gap between cucumber and XRay'
+  spec.description   =
+    <<~DESC
+      This gem helps practitioners of BDD to manage their Scenarios in XRay.
+      This comes at the cost of file structure but enables more businessy user
+      to interact with scenarios in ticket style.
+    DESC
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
