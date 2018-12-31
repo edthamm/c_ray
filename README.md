@@ -1,5 +1,7 @@
 # CRay
-
+[![Build Status](https://travis-ci.org/edthamm/c_ray.svg?branch=develop)](https://travis-ci.org/edthamm/c_ray)
+[![Maintainability](https://api.codeclimate.com/v1/badges/d9800bd775a495db7621/maintainability)](https://codeclimate.com/github/edthamm/c_ray/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/d9800bd775a495db7621/test_coverage)](https://codeclimate.com/github/edthamm/c_ray/test_coverage)
 
 ## Installation
 
