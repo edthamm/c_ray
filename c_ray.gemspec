@@ -32,10 +32,9 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'cucumber', '~> 3.1.2'
 
   spec.add_development_dependency 'aruba', '~> 0.14'
-  spec.add_development_dependency 'bundler', '~> 1.17'
+  spec.add_development_dependency 'bundler', '~> 2.0'
   spec.add_development_dependency 'factory_bot', '~> 4.10'
   spec.add_development_dependency 'guard', '~> 2.15'
-  spec.add_development_dependency 'guard-bundler', '~> 2.1'
   spec.add_development_dependency 'guard-rspec', '~> 4.7'
   spec.add_development_dependency 'guard-rubocop', '~> 1.3'
   spec.add_development_dependency 'libnotify', '~> 0.9'
